@@ -50,7 +50,7 @@ public class BicycleFragment extends Fragment implements LoaderManager.LoaderCal
         super.onActivityCreated(savedInstanceState);
 
 
-        getLoaderManager().initLoader(0, null, true);
+        getLoaderManager().initLoader(0, null, this);
     }
 
     @Override
