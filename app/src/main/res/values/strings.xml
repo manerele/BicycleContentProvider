@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BicycleContentProvider</string>
+    <string name="title_activity_bicycle">BicycleActivity</string>
+    <string name="show_bicycles">Show bicycles</string>
+</resources>
